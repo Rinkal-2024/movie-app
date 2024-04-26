@@ -2,7 +2,7 @@
 .movie-card {
   position: relative;
   display: inline-block;
-  margin: 15px 26px; 
+  margin: 15px 25px 25px ; 
   justify-content: center;
 }
 
@@ -45,4 +45,7 @@
   display: block;
   text-decoration: none;
   color: inherit;
+}
+mat-card-title{
+  justify-content: center;
 }
